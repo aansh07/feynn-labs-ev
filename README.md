@@ -78,8 +78,6 @@
 1. **Urban Innovators**: Strong influence on broader market trends, high profitability.
 2. **Commercial Fleet Operators**: High volume sales, opportunity for long-term partnerships and recurring revenue.
 
-### GitHub Profile
-- [GitHub Repository](https://github.com/AnshMattoo/EV-Market-Segmentation-India)
 
 ### Code and Dataset Documentation
 - The provided repository contains well-documented code and datasets used for analysis, including data preprocessing steps, segmentation algorithms, and visualization scripts. The code can be executed in a Jupyter Notebook environment for reproducibility and further experimentation.
